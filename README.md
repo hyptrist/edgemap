@@ -1,1 +1,1 @@
-# edgemap
+Edge Detection

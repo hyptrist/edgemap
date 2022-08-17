@@ -1,1 +1,1 @@
-Edge Detection
+Edge Detection using laplacian and sobel
